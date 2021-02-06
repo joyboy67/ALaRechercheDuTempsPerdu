@@ -1,5 +1,11 @@
 struct Personnage {
 
-  string nom
+  Nom nom;
 
-}
+};
+
+enum Nom {
+
+Swann
+
+};
