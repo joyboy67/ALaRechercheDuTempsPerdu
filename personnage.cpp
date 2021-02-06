@@ -1,0 +1,5 @@
+struct Personnage {
+
+  nom
+
+}
