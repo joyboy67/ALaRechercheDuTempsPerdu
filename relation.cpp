@@ -1,10 +1,10 @@
 class Relation {
 
 
-string rel(perso_deux) {
+  string rel(perso_deux) {
   
-  return "";
+    return "";
   
-};
+  };
   
 };
