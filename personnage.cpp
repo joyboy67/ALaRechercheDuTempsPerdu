@@ -1,5 +1,5 @@
 struct Personnage {
 
-  nom
+  string nom
 
 }
