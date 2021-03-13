@@ -6,6 +6,6 @@ struct {
 
 enum Nom {
   
-  Comblay 
+  Combray 
 
 }
