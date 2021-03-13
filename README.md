@@ -1,3 +1,3 @@
 # ALaRechercheDuTempsPerdu
 
-"jeux vidéo"
+"jeu vidéo"
