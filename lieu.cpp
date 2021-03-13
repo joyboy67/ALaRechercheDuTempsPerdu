@@ -1,5 +1,11 @@
 struct {
 
-  string nom;
+  string Nom;
+
+}
+
+enum Nom {
+  
+  Comblay 
 
 }
