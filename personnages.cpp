@@ -5,9 +5,6 @@ class Personnage : Relation {
 };
 
 
-
-private:
-
 enum Nom {
 
   Swann
